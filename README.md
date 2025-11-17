@@ -22,6 +22,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=DivyanshThakur2004&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshThakur2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHc0Mng3aDZpeGVxdm9hYjZkdm8wM3Nmamg5enI5OXI3N2U3bjYxcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="500">
+</p>
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DivyanshThakur2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
