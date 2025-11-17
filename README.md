@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW94OG9vNnJ3dDY0dnRhenkxZmZxZ3VrdWszMm43YmJod25lZW04MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" width="500">
+</p>
+
+
 # 💫 About Me:
 - 👋 Hi, I’m @DivyanshThakur2004<br>- 👀 I’m interested in Machine Learning, Python, Data science, Artificial Intelligence and Project Building<br>- 🌱 I’m currently learning c, c++ and python and planning to study java, HTML and some other languages in near future
 
@@ -20,7 +26,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DivyanshThakur2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
