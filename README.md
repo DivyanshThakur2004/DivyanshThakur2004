@@ -36,7 +36,12 @@
 
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div style="padding: 15px; border-radius: 15px; background: #111827; color: #a5f3fc; font-style: italic;">
+“When something is important enough, you do it even if the odds are not in your favor.”
+<br><br>
+<span style="float:right; color:#f472b6; font-weight:bold;">— Elon Musk</span>
+</div>
+
 
 ---
 
