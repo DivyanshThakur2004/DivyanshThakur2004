@@ -40,11 +40,11 @@
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=DivyanshThakur2004&icon=6&color=6)](https://visitcount.itsvg.in)
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2hoZDJjYnRqNDZlbGNwanppejdtejFjYjRtZHdyZms3NnFqaXhscCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WxOdMjEEBYNao1VAZB/giphy.gif" width="250">
 </p>
 
-
-[![](https://visitcount.itsvg.in/api?id=DivyanshThakur2004&icon=6&color=6)](https://visitcount.itsvg.in)
 
 
