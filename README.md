@@ -30,6 +30,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DivyanshThakur2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXZrd3gybHRwazg1azBxeGlyN29tbG92bzQ4b2ZwYng2MGx6Y21tdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VHKG9lo6eqs0rstRjp/giphy.gif" width="250">
+</p>
+
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
