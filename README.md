@@ -8,40 +8,33 @@
 - 👋 Hi, I’m @DivyanshThakur2004<br>- 👀 I’m interested in Machine Learning, Python, Data science, Artificial Intelligence and Project Building<br>- 🌱 I’m currently learning c, c++ and python and planning to study java, HTML and some other languages in near future
 
 
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+## 🌐 Socials:
 
-  <a href="https://discord.gg/BfpSamKfz" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+<p align="left">
+  <a href="https://discord.gg/BfpSamKfz">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
   </a>
-
-  <a href="https://instagram.com/divyansh.thakur_16" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/divyansh.thakur_16">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
-
-  <a href="https://www.linkedin.com/in/divyansh-thakur-957697289" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/divyansh-thakur-957697289">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="https://pinterest.com/divyanshthakur675" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white" />
+  <a href="https://pinterest.com/divyanshthakur675">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" />
   </a>
-
-  <a href="https://www.quora.com/profile/Divyansh-Thakur-2004" target="_blank">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=quora&logoColor=white" />
+  <a href="https://www.quora.com/profile/Divyansh-Thakur-2004">
+    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" />
   </a>
-
-  <a href="https://reddit.com/user/Lost-You7656" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" />
+  <a href="https://reddit.com/user/Lost-You7656">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
   </a>
-
-  <a href="https://stackoverflow.com/users/Divyansh_Thkaur_2004" target="_blank">
-    <img src="https://img.shields.io/badge/Stackoverflow-FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <a href="https://stackoverflow.com/users/ Divyansh_Thkaur_2004">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
   </a>
-
-  <a href="mailto:divyanshthakur675@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:divyanshthakur675@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-
 </p>
 
 
