@@ -10,41 +10,7 @@
 
 ## 🌐 Socials:
 
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
-
-  <a href="https://discord.gg/BfpSamKfz">
-    <img height="40" style="border-radius: 0;" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/divyansh.thakur_16">
-    <img height="40" style="border-radius: 0;" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/divyansh-thakur-957697289">
-    <img height="40" style="border-radius: 0;" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://pinterest.com/divyanshthakur675">
-    <img height="40" style="border-radius: 0;" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat&logo=pinterest&logoColor=white" />
-  </a>
-
-  <a href="https://www.quora.com/profile/Divyansh-Thakur-2004">
-    <img height="40" style="border-radius: 0;" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=flat&logo=quora&logoColor=white" />
-  </a>
-
-  <a href="https://reddit.com/user/Lost-You7656">
-    <img height="40" style="border-radius: 0;" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=reddit&logoColor=white" />
-  </a>
-
-  <a href="https://stackoverflow.com/users/Divyansh_Thkaur_2004">
-    <img height="40" style="border-radius: 0;" src="https://img.shields.io/badge/Stackoverflow-FE7A16.svg?style=flat&logo=stackoverflow&logoColor=white" />
-  </a>
-
-  <a href="mailto:divyanshthakur675@gmail.com">
-    <img height="40" style="border-radius: 0;" src="https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white" />
-  </a>
-
-</p>
+<p align="left"> <a href="https://discord.gg/BfpSamKfz"> <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /> </a> <a href="https://instagram.com/divyansh.thakur_16"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/divyansh-thakur-957697289"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /> </a> <a href="https://pinterest.com/divyanshthakur675"> <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" /> </a> <a href="https://www.quora.com/profile/Divyansh-Thakur-2004"> <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" /> </a> <a href="https://reddit.com/user/Lost-You7656"> <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" /> </a> <a href="https://stackoverflow.com/users/ Divyansh_Thkaur_2004"> <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /> </a> <a href="mailto:divyanshthakur675@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /> </a> </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJwZHR1aDA3aDc2cW1pMjY0ZnMydXFyMnd5a3lkdHJ6MzZib214OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fV8KLSSAXharZpHR0a/giphy.gif" width="350">
