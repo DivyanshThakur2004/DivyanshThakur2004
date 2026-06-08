@@ -54,11 +54,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshThakur2004&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DivyanshThakur2004&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DivyanshThakur2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <p align="center">
