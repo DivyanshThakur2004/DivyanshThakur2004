@@ -35,6 +35,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHc0Mng3aDZpeGVxdm9hYjZkdm8wM3Nmamg5enI5OXI3N2U3bjYxcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="500">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Flediko/Flediko/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
 
 
 ## 🏆 GitHub Trophies
