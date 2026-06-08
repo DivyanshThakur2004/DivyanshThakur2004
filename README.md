@@ -39,6 +39,25 @@
   <img src="https://raw.githubusercontent.com/Flediko/Flediko/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivyanshThakur2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshThakur2004&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DivyanshThakur2004&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshThakur2004&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DivyanshThakur2004&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DivyanshThakur2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
