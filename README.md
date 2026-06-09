@@ -39,7 +39,7 @@
   <img src="https://raw.githubusercontent.com/Flediko/Flediko/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
-## ⚡ GitHub Stats
+<br>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DivyanshThakur2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
