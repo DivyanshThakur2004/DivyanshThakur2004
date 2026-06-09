@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-- 👋 Hi, I’m @DivyanshThakur2004<br>- 👀 I’m interested in Machine Learning, Python, Data science, Artificial Intelligence and Project Building<br>- 🌱 I’m currently learning c, c++ and python and planning to study java, HTML and some other languages in near future
+- 👋 Hi, I’m @DivyanshThakur2004<br>- 👀 I’m interested in Machine Learning, Python, Data science, Artificial Intelligence and Project Building<br>- 🌱 I have learned c, c++, python, java, HTML and some other languages in near future
 
 
 ## 🌐 Socials:
