@@ -1,6 +1,4 @@
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,100:2575FC&text=Divyansh%20Thakur&fontSize=55&fontAlignY=40&animation=twinkling&desc=Machine%20Learning%20%7C%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Divyansh%20Thakur&fontSize=60&animation=fadeIn&fontAlignY=38"/>
 # 💫 About Me:
 - 👋 Hi, I’m @DivyanshThakur2004<br>- 👀 I’m interested in Machine Learning, Python, Data science, Artificial Intelligence and Project Building<br>- 🌱 I’m currently learning c, c++ and python and planning to study java, HTML and some other languages in near future
 
